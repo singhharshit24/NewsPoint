@@ -9,12 +9,6 @@ import {
 } from "react-router-dom";
 
 export default class App extends Component {
-  constructor() {
-    super();
-    this.state = {
-      status: ""
-    }
-  }
 
   render() {
     return (
