@@ -65,14 +65,16 @@ npm start
 ## Demo
 
 ### General News
-![General News](ScreenShots\general.png)
+![general](https://github.com/singhharshit24/NewsPoint/assets/104483826/77107690-3942-44b1-b049-8e9b81a602a0)
 
 ### Sports News
-![Sports News](ScreenShots\sports.png)
+![sports](https://github.com/singhharshit24/NewsPoint/assets/104483826/4326f3b0-a019-46c2-8e60-affe54744ce0)
 
 ### Entertainment News
-![Entertainment News](ScreenShots\entertainment.png)
+![entertainment](https://github.com/singhharshit24/NewsPoint/assets/104483826/aba12b19-7976-4ac0-b91c-3aca37e28ae4)
 
 ### Video demo
 
-![Demo Video](ScreenShots\Recording 2023-07-09 205353.mp4)
+
+https://github.com/singhharshit24/NewsPoint/assets/104483826/ca43b7cb-33de-4de5-b501-7f9f03500db0
+
